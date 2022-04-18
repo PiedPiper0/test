@@ -4,3 +4,4 @@ Git Remote is amazing.
 
 - Git
 - SVN
+- Python
